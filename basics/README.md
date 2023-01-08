@@ -7,3 +7,5 @@
 - [CSRF Protection](./03.csrf-protection.md)
 - [Controllers](./04.controllers.md)
 - [Requests](./05.http-requests.md)
+- [Responses](./06.http-responses.md)
+- [Views](./07.views.md)

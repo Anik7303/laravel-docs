@@ -8,3 +8,5 @@
   - [CSRF Protection](/basics/03.csrf-protection.md)
   - [Controllers](/basics/04.controllers.md)
   - [Requests](/basics/05.http-requests.md)
+  - [Responses](/basics/06.http-responses.md)
+  - [Views](/basics/07.views.md)
