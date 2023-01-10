@@ -45,7 +45,7 @@ Route::any('/', function() {
 
 #### Dependency Injection
 
-You may type-hint any dependencies required by your route in your route's callback signature. The declared dependencies will autometically be resolved and injected into the callback by the Laravel [service container][service-container].
+You may type-hint any dependencies required by your route in your route's callback signature. The declared dependencies will autometically be resolved and injected into the callback by the Laravel [service container][container].
 
 You may type-hint the `Illuminate\Http\Request` class to have the current HTTP request autometically injected into your route callback:
 
@@ -832,11 +832,11 @@ You may use the `route:clear` command to clear the route cache.
 php artisan route:clear
 ```
 
-[service-container]: https://laravel.com/docs/9.x/container
-[view]: https://laravel.com/docs/9.x/views
+[container]: https://laravel.com/docs/9.x/container
+[view]: /basics/views.md
 [url-default-values]: https://laravel.com/docs/9.x/urls#default-values
-[middleware]: https://laravel.com/docs/9.x/middleware
-[controllers]: https://laravel.com/docs/9.x/controllers
+[middleware]: /basics/middleware.md
+[controllers]: /basics/controllers.md
 [eloquent-soft-deleting]: https://laravel.com/docs/9.x/eloquent#soft-deleting
 [backed-enumaritions]: https://www.php.net/manual/en/language.enumerations.backed.php
 [blade]: https://laravel.com/docs/9.x/blade

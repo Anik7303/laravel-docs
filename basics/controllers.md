@@ -534,11 +534,11 @@ class UserController extends Controller
 ```
 
 [artisan-sub-customization]: https://laravel.com/docs/9.x/artisan#stub-customization
-[middleware]: https://laravel.com/docs/9.x/middleware
+[middleware]: /basics/middleware.md
 [eloquent-soft-deleting]: https://laravel.com/docs/9.x/eloquent#soft-deleting
-[route-model-binding]: /basics/01.routing.md#route-model-binding
+[route-model-binding]: /basics/routing.md#route-model-binding
 [form-request-validation]: https://laravel.com/docs/9.x/validation#form-request-validation
-[implicit-model-binding-scoping]: /basics/01.routing.md#custom-keys--scoping
-[restful-scoping-resource-routes]: https://laravel.com/docs/9.x/controllers#restful-scoping-resource-routes
+[implicit-model-binding-scoping]: /basics/routing.md#custom-keys--scoping
+[restful-scoping-resource-routes]: /basics/controllers.md#scoping-resource-routes
 [localization-pluralization-language]: https://laravel.com/docs/9.x/localization#pluralization-language
 [container]: https://laravel.com/docs/9.x/container

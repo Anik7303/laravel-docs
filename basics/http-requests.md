@@ -691,7 +691,7 @@ public function hosts()
 
 The `allSubdomainsOfApplicatoinUrl` helper method will return a regular expression matching all subdomains of your application's `app.url` configuration value. This helper method provies a convenient way to allow all of your application's subdomains when building an application that utilizes wildcard subdomains.
 
-[routing-named-routes]: /basics/01.routing.md#named-routes
+[routing-named-routes]: /basics/routing.md#named-routes
 [psr-7]: https://www.php-fig.org/psr/psr-7
 [collections]: https://laravel.com/docs/9.x/collections
 [php-enumerations]: https://www.php.net/manual/en/language.types.enumerations.php

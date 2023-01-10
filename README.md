@@ -3,10 +3,11 @@
 ## Contents
 
 - [The Basics](/basics/README.md)
-  - [Routing](/basics/01.routing.md)
-  - [Middleware](/basics/02.middleware.md)
-  - [CSRF Protection](/basics/03.csrf-protection.md)
-  - [Controllers](/basics/04.controllers.md)
-  - [Requests](/basics/05.http-requests.md)
-  - [Responses](/basics/06.http-responses.md)
-  - [Views](/basics/07.views.md)
+  - [Routing](/basics/routing.md)
+  - [Middleware](/basics/middleware.md)
+  - [CSRF Protection](/basics/csrf-protection.md)
+  - [Controllers](/basics/controllers.md)
+  - [Requests](/basics/http-requests.md)
+  - [Responses](/basics/http-responses.md)
+  - [Views](/basics/views.md)
+  - [Blade Templates](/basics/blade-templates.md)

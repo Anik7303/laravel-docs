@@ -365,10 +365,10 @@ return response()->caps('foo');
 [eloquent-serialization-hiding-attributes-from-json]: https://laravel.com/docs/9.x/eloquent-serialization#hiding-attributes-from-json
 [setcookie]: https://secure.php.net/manual/en/function.setcookie.php
 [session]: https://laravel.com/docs/9.x/session
-[controllers]: /basics/04.controllers.md
+[controllers]: /basics/controllers.md
 [session-flash-data]: https://laravel.com/docs/9.x/session#flash-data
 [blade]: https://laravel.com/docs/9.x/blade
-[request-retrieving-old-input]: /basics/05.http-requests.md#retrieving-old-input
+[request-retrieving-old-input]: /basics/http-requests.md#retrieving-old-input
 [contracts]: https://laravel.com/docs/9.x/contracts
-[views]: https://laravel.com/docs/9.x/views
+[views]: /basics/views.md
 [providers]: https://laravel.com/docs/9.x/providers

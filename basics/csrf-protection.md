@@ -92,7 +92,7 @@ This cookie is primarily sent as a developer convenience since some JavaScript f
 
 [csrf]: https://en.wikipedia.org/wiki/Cross-site_request_forgery
 [session]: https://laravel.com/docs/9.x/session
-[middleware]: https://laravel.com/docs/9.x/middleware
+[middleware]: /basics/middleware.md
 [laravel-sanctum]: https://laravel.com/docs/9.x/sanctum
 [stripe]: https://stripe.com
 [testing]: https://laravel.com/docs/9.x/testing
