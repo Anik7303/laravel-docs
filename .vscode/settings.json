@@ -1,5 +1,7 @@
 {
   "prettier.endOfLine": "lf",
   "editor.fontSize": 16,
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80
 }
